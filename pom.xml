@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>MyDevOpsProject</artifactId>
-	<version>1421jenkin</version>
+	<version>Jenkins sai</version>
 	<name>MyDevOpsProject</name>
 	<description>Demo project for Spring Boot Web Application</description>
 	<properties>
